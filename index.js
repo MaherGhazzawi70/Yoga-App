@@ -72,7 +72,7 @@ class Exercice {
           this.seconds--;
           this.updateCountdown();
         }
-      }, 100);
+      }, 1000);
     }
   }
 
